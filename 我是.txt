@@ -1,0 +1,5 @@
+
+
+git --version  查看git版本状态
+git config --list 查看git配置信息，在里面可以看到你的邮箱或者名字许可证
+git clone git@github.com:xiaowangzi0224/20180908.git  克隆你的项目使用SSH密钥和帐户密码的地址
